@@ -20,3 +20,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" **alt="numpy" width="40" height="40"/>
 </div>
+
+### :fire: Статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hawk20434&theme=vue&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)

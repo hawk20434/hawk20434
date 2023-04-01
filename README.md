@@ -28,4 +28,3 @@
 Пройденный курс на платформе stepik ""Поколение Python": курс для начинающих"
 ![image](https://user-images.githubusercontent.com/62328849/229272318-d75899a2-6e11-424a-98a6-bffb3502958d.png)
 
-<img src="https://user-images.githubusercontent.com/62328849/229272318-d75899a2-6e11-424a-98a6-bffb3502958d.pn" width="400" height="400"/>

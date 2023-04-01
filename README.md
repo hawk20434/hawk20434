@@ -24,3 +24,6 @@
 
 ### :fire: Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hawk20434&theme=vue&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+### 🥇: Достижения :
+
+https://stepik.org/cert/2013472

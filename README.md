@@ -25,7 +25,6 @@
 ### :fire: Статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hawk20434&theme=vue&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
 ### 🥇: Достижения :
-<img src="[https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg](https://user-images.githubusercontent.com/62328849/229272318-d75899a2-6e11-424a-98a6-bffb3502958d.png)" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
-https://stepik.org/cert/2013472
+Пройденный курс на платформе stepik ""Поколение Python": курс для начинающих"
 ![image](https://user-images.githubusercontent.com/62328849/229272318-d75899a2-6e11-424a-98a6-bffb3502958d.png)
 

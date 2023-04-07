@@ -26,7 +26,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hawk20434&theme=vue&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
 ### 🥇: Достижения :
 Пройденный курс на платформе stepik ""Поколение Python": курс для начинающих"
-![image](https://user-images.githubusercontent.com/62328849/229272318-d75899a2-6e11-424a-98a6-bffb3502958d.png)
+![image](https://user-images.githubusercontent.com/62328849/230632824-babd3d4d-0d87-49af-b42c-849209bbd77b.png)
 Пройденный курс "Аналитик данных"
 ![image](https://user-images.githubusercontent.com/62328849/229996563-d79b0c25-0982-45a7-af54-8ac9aa3d869c.png)
 

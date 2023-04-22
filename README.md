@@ -29,4 +29,5 @@
 ![image](https://user-images.githubusercontent.com/62328849/232241779-246591c4-fec7-48b1-a84f-8bc81678cc8f.png)
 Пройденный курс "Аналитик данных"
 ![image](https://user-images.githubusercontent.com/62328849/229996563-d79b0c25-0982-45a7-af54-8ac9aa3d869c.png)
-
+Сертификат участника по коммуникативным боям
+![image](https://user-images.githubusercontent.com/62328849/233794168-5663e339-ce97-4eb5-a051-e9a707a09270.png)
